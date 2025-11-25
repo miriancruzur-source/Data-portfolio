@@ -5,8 +5,6 @@ SELECT * FROM salary
 WHERE work_year < 2023;
 
 #Creamos nueva tabla para trabajar sobre ella y limpiarla, esto sirve por si cometemo algun error que no afecte a la tabla original.
-#(Borro la tabla primero porque la habia creado mal)
-DROP TABLE salary_clean;
 CREATE TABLE salary_clean
 LIKE salary;
 
