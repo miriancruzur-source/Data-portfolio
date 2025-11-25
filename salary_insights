@@ -11,7 +11,7 @@ The final Tableau dashboard allows users to explore salary trends by job role, e
 #Project Overview
 
 This repository showcases a full data project that transforms raw salary data into meaningful insights.  
-The dataset includes **10,000+ salary records** from tech professionals worldwide across a 5-year period.
+The dataset includes 10,000 salary records from tech professionals worldwide across a 5-year period.
 
 The project follows this pipeline:
 
