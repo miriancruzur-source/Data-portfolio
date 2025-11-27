@@ -61,9 +61,9 @@ FROM salary_clean2
 WHERE work_year IS NULL
 
 UNION ALL
-SELECT 'job_title', COUNT(*) FROM salary_clean WHERE job_title IS NULL
+SELECT 'job_title', COUNT(*) FROM salary_clean2 WHERE job_title IS NULL
 UNION ALL
-SELECT 'salary_in_usd', COUNT(*) FROM salary_clean WHERE salary_in_usd IS NULL;
+SELECT 'salary_in_usd', COUNT(*) FROM salary_clean2 WHERE salary_in_usd IS NULL;
 
 #DATA ANALYSIS
 #Panorama general del mercado (gráfica de evolución de salarios en el tiempo)
