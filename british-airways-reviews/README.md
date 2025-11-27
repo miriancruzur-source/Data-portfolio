@@ -30,14 +30,16 @@ The analysis was performed using **Tableau** with a focus on rating trends and c
 
 ## Repository Structure
 british-airways-reviews/
--README.md
--images/ # Dashboard images
+
+  -README.md
+  
+  -images/ # Dashboard images
 
 ---
 
 ## Preview
-*<img width="1199" height="706" alt="Screen Shot 2025-11-27 at 09 56 12" src="https://github.com/user-attachments/assets/031199fd-9223-4ef2-8745-701be58dc8c0" />
-*
+<img width="1199" height="706" alt="Screen Shot 2025-11-27 at 09 56 12" src="https://github.com/user-attachments/assets/031199fd-9223-4ef2-8745-701be58dc8c0" />
+
 
 ## Dataset
 The dataset consists of customer reviews and aircraft information for British Airways flights.
