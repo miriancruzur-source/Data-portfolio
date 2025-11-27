@@ -1,12 +1,12 @@
-###**Technology Salary Insights Project (SQL + Tableau)**
+# **Technology Salary Insights Project (SQL + Tableau)**
 
-**Overview**
+## **Overview**
 
 End-to-end data analytics project using SQL and Tableau to analyze global tech salaries from 2020 to 2024.
 
 The project includes data cleaning, SQL-based exploratory analysis, and the creation of an interactive dashboard that explores salary patterns by role, experience, location, remote type, and company size.
 
-**Tools & Skills Used**
+## **Tools & Skills Used**
 
 -MySQL Workbench — data cleaning, transformation, and analytical SQL queries
 
@@ -16,7 +16,7 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 
 -EDA, Data Cleaning, KPI Design, Data Visualization
 
-**Project Objectives**
+## **Project Objectives**
 
 -Clean and standardize raw salary data using SQL
 
@@ -26,9 +26,9 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 
 -Identify compensation trends across experience, geography, and job roles
 
-**Project Pipeline**
+## **Project Pipeline**
 
-1. Data Cleaning (SQL)
+### 1. Data Cleaning (SQL)
    
 -Standardized experience level (EN → Entry-level, MI → Mid-level, etc.)
 
@@ -40,7 +40,7 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 
 -Fixed label inconsistencies and standardized text formatting
 
-2. Exploratory Data Analysis (SQL)
+### 2. Exploratory Data Analysis (SQL)
    
 -Key questions explored:
 
@@ -52,16 +52,16 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 
 -What are the salary trends from 2020–2024?
 
-3. Tableau Dashboard
+### 3. Tableau Dashboard
 
 Dashboard:
 https://public.tableau.com/shared/6HP4WHNRR?:display_count=n&:origin=viz_share_link
 
-**Key Insights**
+## **Key Insights**
 
 
 
-**Dataset**
+## **Dataset**
 
 The dataset consists of 10,000+ global tech salary records across a 5-year period (2020–2024).
 
@@ -87,7 +87,7 @@ Work year
 
 The dataset is sourced from publicly available global salary data commonly used for analytical practice and benchmarking.
 
-**Repository Structure**
+## **Repository Structure**
 
 tech-salary-insights/
 
@@ -101,6 +101,6 @@ tech-salary-insights/
 
     └── dashboard_preview.png
 
-**Preview**
+## **Preview**
 <img width="1281" height="667" alt="Tech_Salary_Preview" src="https://github.com/user-attachments/assets/d0d831ee-fec4-43c4-ae3e-896765a0fecb" />
 
