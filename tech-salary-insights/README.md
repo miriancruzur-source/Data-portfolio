@@ -42,7 +42,7 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 
 ### 2. Exploratory Data Analysis (SQL)
    
-- Key questions explored:
+   Key questions explored:
 
 - Which job roles have the highest salaries?
 
@@ -59,7 +59,7 @@ https://public.tableau.com/shared/6HP4WHNRR?:display_count=n&:origin=viz_share_l
 
 ## **Key Insights**
 
-- The dataset contains **10,000 tech roles** across **51 countries**, with an average salary of **151K USD** and a maximum of **800K USD**.
+- The dataset contains **10,000 tech roles** across **51 countries**, with an average salary of **151K USD**.
 - **Executive and Senior** positions show the highest average salaries, followed by Mid-level and Entry-level roles.
 - **On-site and fully remote** roles tend to have higher average salaries than hybrid positions.
 - Top-paying roles include **Head of Machine Learning, Managing Director of Data Science, AI Architect** and other advanced data and ML positions.
@@ -108,5 +108,6 @@ tech-salary-insights/
     └── dashboard_preview.png
 
 ## **Preview**
-<img width="1281" height="667" alt="Tech_Salary_Preview" src="https://github.com/user-attachments/assets/d0d831ee-fec4-43c4-ae3e-896765a0fecb" />
+<img width="1266" height="673" alt="Tech_Salary_preview" src="https://github.com/user-attachments/assets/13d4f303-20a1-4f44-903e-3a805ddb5fc9" />
+
 
