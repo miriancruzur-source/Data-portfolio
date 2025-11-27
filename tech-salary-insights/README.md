@@ -8,49 +8,49 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 
 ## **Tools & Skills Used**
 
--MySQL Workbench — data cleaning, transformation, and analytical SQL queries
+- MySQL Workbench — data cleaning, transformation, and analytical SQL queries
 
--Tableau Public — dashboard design and visualization
+- Tableau Public — dashboard design and visualization
 
--Excel/CSV — raw dataset handling
+- Excel/CSV — raw dataset handling
 
--EDA, Data Cleaning, KPI Design, Data Visualization
+- EDA, Data Cleaning, KPI Design, Data Visualization
 
 ## **Project Objectives**
 
--Clean and standardize raw salary data using SQL
+- Clean and standardize raw salary data using SQL
 
--Explore salary drivers with analytical SQL queries
+- Explore salary drivers with analytical SQL queries
 
--Build an interactive Tableau dashboard with rankings, KPIs, and maps
+- Build an interactive Tableau dashboard with rankings, KPIs, and maps
 
--Identify compensation trends across experience, geography, and job roles
+- Identify compensation trends across experience, geography, and job roles
 
 ## **Project Pipeline**
 
 ### 1. Data Cleaning (SQL)
    
--Standardized experience level (EN → Entry-level, MI → Mid-level, etc.)
+- Standardized experience level (EN → Entry-level, MI → Mid-level, etc.)
 
--Cleaned and unified employment types
+- Cleaned and unified employment types
 
--Categorized remote work into On-site / Hybrid / Fully Remote
+- Categorized remote work into On-site / Hybrid / Fully Remote
 
--Validated salary fields (removing negative/invalid values)
+- Validated salary fields (removing negative/invalid values)
 
--Fixed label inconsistencies and standardized text formatting
+- Fixed label inconsistencies and standardized text formatting
 
 ### 2. Exploratory Data Analysis (SQL)
    
--Key questions explored:
+- Key questions explored:
 
--Which job roles have the highest salaries?
+- Which job roles have the highest salaries?
 
--Do remote workers earn more?
+- Do remote workers earn more?
 
--How does experience level impact compensation?
+- How does experience level impact compensation?
 
--What are the salary trends from 2020–2024?
+- What are the salary trends from 2020–2024?
 
 ### 3. Tableau Dashboard
 
