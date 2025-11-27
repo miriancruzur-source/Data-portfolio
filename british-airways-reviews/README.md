@@ -30,8 +30,8 @@ The analysis was performed using **Tableau** with a focus on rating trends and c
 
 ## Repository Structure
 british-airways-reviews/
-│── README.md
-│── images/ # Dashboard images
+── README.md
+── images/ # Dashboard images
 
 ---
 
