@@ -59,6 +59,12 @@ https://public.tableau.com/shared/6HP4WHNRR?:display_count=n&:origin=viz_share_l
 
 ## **Key Insights**
 
+- The dataset contains **10,000 tech roles** across **51 countries**, with an average salary of **151K USD** and a maximum of **800K USD**.
+- **Executive and Senior** positions show the highest average salaries, followed by Mid-level and Entry-level roles.
+- **On-site and fully remote** roles tend to have higher average salaries than hybrid positions.
+- Top-paying roles include **Head of Machine Learning, Managing Director of Data Science, AI Architect** and other advanced data and ML positions.
+- Salaries show an **upward trend from 2020 to 2024**, with a strong increase in the last years.
+- Higher salary levels are concentrated in **key tech markets** (notably North America and parts of Western Europe), while other regions show lower median salaries.
 
 
 ## **Dataset**
