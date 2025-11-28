@@ -55,7 +55,7 @@ The project includes data cleaning, SQL-based exploratory analysis, and the crea
 ### 3. Tableau Dashboard
 
 Dashboard:
-https://public.tableau.com/shared/6HP4WHNRR?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/TechSalaryInsightsDashboard_17641727486610/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## **Key Insights**
 
